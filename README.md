@@ -5,7 +5,7 @@ InvaPact Workshop<br>
 Vers-Pont-du-Gard, Provence, France<br>
 October 2023<br>
 
-Corey Bradshaw<br>
+<a href="https://github.com/cjabradshaw">Corey Bradshaw</a><br>
 Flinders University<br>
 
 ## Scripts
