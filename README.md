@@ -1,5 +1,5 @@
 # Simulation showing comparison of the weighted (ecological) impact magnitude (omega) for invasive species
-<img align="right" src="www/InvaPact logo.png" alt="InvaPact logo" width="400" style="margin-top: 20px">
+<img align="right" src="www/InvaPact logo.jpg" alt="InvaPact logo" width="400" style="margin-top: 20px">
 
 InvaPact Workshop<br>
 Vers-Pont-du-Gard, Provence, France<br>
