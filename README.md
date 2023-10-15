@@ -1,4 +1,4 @@
-# Simulation showing comparison of the weighted (ecological) impact magnitude (omega) for invasive species
+# Simulation to compare weighted (ecological) impact magnitude (omega) of invasive species
 <img align="right" src="www/InvaPact logo.jpg" alt="InvaPact logo" width="200" style="margin-top: 20px">
 
 InvaPact Workshop<br>
