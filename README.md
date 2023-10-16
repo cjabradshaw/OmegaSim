@@ -9,7 +9,10 @@ October 2023<br>
 Flinders University<br>
 
 ## Scripts
-- <code>InvaPact sim.R</code>: script setting up simulation for 3 regions of set assessment characteristics, and the calculation of omega (weighted impact magnitude), mean omega per invasive species, and InvaPacts (affected species-weighted omega per invasive species)
+- <code>InvaPactSim.R</code>: script setting up simulation for 3 regions of set assessment characteristics, and the calculation of omega (weighted impact magnitude), mean omega per invasive species, and InvaPacts (affected species-weighted omega per invasive species)
+- <code>InvaPact conf sensitivity.R</code>: script testing changes in the confidence of one region's assessments to determine affect on mean omega differences among regions 
+- <code>InvaPact impact sensitivity.R</code>: script testing changes in the impact magnitude of one region's assessments to determine affect on mean omega differences among regions
+- <code>InvaPact assessment sensitivity.R</code>: script testing changes in the maximum number of assessments per invasive species in one region to determine affect on mean omega differences among regions 
 
 ## Required R libraries
 - <code>jtools</code>
